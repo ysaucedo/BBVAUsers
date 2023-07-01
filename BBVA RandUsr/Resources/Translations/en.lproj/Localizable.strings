@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  BBVA RandUsr
+
+  Created by Yair Saucedo on 29/06/23.
+  
+*/
+"Login" = "Login";
+"Username" = "Username";
+"Password" = "Password";
+"Invalid username and/or password: You did not provide a valid login." = "Invalid username and/or password: You did not provide a valid login.";
+"Error" = "Error";
+"Acept" = "Acept";
+"Loading, please wait" = "Loading, please wait";
+"User can not empty" = "User can not empty";
+"Password can not empty" = "Password can not empty";
+"List users" = "List users";
+"Age" = "Age";
+"What do you want to do?" = "What do you want to do?";
+"Logout" = "Logout";
+"Cancel" = "Cancel";
+"Details" = "Details";
+"Years" = "Years";
